@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "3c291787-1398-4f20-8172-196f42d8a0c2",
+      "email": "admin@analyzer.ai",
+      "hashed_password": "$2b$12$K8dflG9Qd0v41p9xXfMhceH2QY1d6M3U2w6N8zB0cR.pY7A3k5fFe",
+      "full_name": "System Administrator",
+      "role": "admin",
+      "created_at": "2026-09-26T17:58:18.991350+00:00"
+    },
+    {
+      "id": "cb0d9b69-4e43-470f-8dd3-b126eb8a86df",
+      "email": "admin@analyer.ai",
+      "hashed_password": "$2b$12$K8dflG9Qd0v41p9xXfMhceH2QY1d6M3U2w6N8zB0cR.pY7A3k5fFe",
+      "full_name": "System Administrator",
+      "role": "admin",
+      "created_at": "2026-09-26T17:58:18.991350+00:00"
+    },
+    {
+      "id": "375fff04-176c-483b-acbf-30ab7394bef3",
+      "email": "demo@analyzer.ai",
+      "hashed_password": "$2b$12$K8dflG9Qd0v41p9xXfMhceH2QY1d6M3U2w6N8zB0cR.pY7A3k5fFe",
+      "full_name": "Demo Candidate",
+      "role": "user",
+      "created_at": "2026-09-26T17:58:18.991350+00:00"
+    },
+    {
+      "id": "1cc2a419-8878-4f83-b2c1-ba11bf522d91",
+      "email": "demo@analyer.ai",
+      "hashed_password": "$2b$12$K8dflG9Qd0v41p9xXfMhceH2QY1d6M3U2w6N8zB0cR.pY7A3k5fFe",
+      "full_name": "Demo Candidate",
+      "role": "user",
+      "created_at": "2026-09-26T17:58:18.991350+00:00"
+    },
+    {
+      "id": "e5c19569-f60f-4e54-b602-0ef8138d19e7",
+      "email": "vamshipalle78@gmail.com",
+      "hashed_password": "$2b$12$NqHZ7OCJHnADGlC4VjdiUuBhV1I.5zL6i27RMWhH.gmd9sdi2Zdz2",
+      "full_name": "vamshi",
+      "role": "user",
+      "created_at": "2026-09-26T18:24:33.388748+00:00",
+      "updated_at": "2026-09-26T18:24:33.388748+00:00"
+    }
+  ],
+  "resumes": [],
+  "analyses": [],
+  "audit_logs": [
+    {
+      "id": "cb955f27-907c-4fae-8792-75e828706254",
+      "user_id": "e5c19569-f60f-4e54-b602-0ef8138d19e7",
+      "action": "USER_REGISTERED",
+      "details": {
+        "email": "vamshipalle78@gmail.com"
+      },
+      "ip_address": null,
+      "created_at": "2026-09-26T18:24:33.389756+00:00"
+    }
+  ]
+}
