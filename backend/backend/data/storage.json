@@ -42,8 +42,83 @@
       "updated_at": "2026-09-26T18:24:33.388748+00:00"
     }
   ],
-  "resumes": [],
-  "analyses": [],
+  "resumes": [
+    {
+      "id": "a0b53a71-5733-4ad8-9d0c-dac85cdf7c47",
+      "user_id": null,
+      "filename": "Palle_Vamshi_Krishna_Resume.docx",
+      "file_type": "docx",
+      "file_size_bytes": 37958,
+      "raw_text": "PALLE VAMSHI KRISHNA\nCSE\u2013Artificial Intelligence & Machine Learning | Aspiring AI Engineer / AI Developer\nWarangal, Telangana  |  9392311248  |  vamshipalle7@gmail.com  |  linkedin.com/in/vamshi-krishna-palle-ba1a493a3\nCAREER OBJECTIVE\nMotivated third-year B.Tech student specializing in Computer Science and Engineering with Artificial Intelligence and Machine Learning, seeking opportunities to begin a career as an AI Engineer or AI Developer. Building a strong foundation in Python, Artificial Intelligence, SQL, problem solving, and automation while exploring AI agent development using n8n workflows. Eager to learn, apply technical knowledge to real-world problems, and continuously develop practical AI solutions.\nEDUCATION\nBachelor of Technology \u2014 CSE (Artificial Intelligence & Machine Learning)\nNalla Narasimha Reddy Engineering College | Expected Graduation: 2028\nIntermediate: 89%  |  10th Standard: 93%\nTECHNICAL SKILLS\nProgramming: Python, C, Java\nAI & ML: Artificial Intelligence Fundamentals, Prompt Design\nDatabases: SQL, MongoDB\nWeb: HTML, CSS\nTools & Platforms: GitHub, Visual Studio Code, n8n\nCurrently Developing: Data Structures & Algorithms, Problem Solving, AI Agent Development, Workflow Automation\nPRACTICAL LEARNING\nAI Agent Development using n8n\n\n\u2022  Currently developing an AI agent using n8n workflow automation.\n\n\u2022  Exploring how AI workflows are designed, connected, executed, and automated.\n\n\u2022  Building hands-on understanding of AI models, workflow automation, and application components.\nCERTIFICATIONS\n\n\u2022  AI Foundations Certification \u2014 Oracle\n\n\u2022  Power BI Certification \u2014 Skill India\n\n\u2022  Prompt Design in Vertex AI \u2014 Google\n\n\u2022  Generative AI Job Simulation \u2014 Tata\n\n\u2022  MongoDB with AI \u2014 MongoDB\n\n\u2022  AI Fundamentals \u2014 IBM\nCORE STRENGTHS\nProblem Solving  \n\u2022   Communication  \n\u2022   Teamwork  \n\u2022   Quick Learning  \n\u2022   Continuous Learning Mindset\nLANGUAGES\nTelugu (Speak, Read & Write)  \n\u2022   Hindi (Speak, Read & Write)  \n\u2022   English (Speak, Read & Write)\nPROFESSIONAL INTERESTS\nArtificial Intelligence  \n\u2022   AI Agent Development  \n\u2022   AI Automation  \n\u2022   Machine Learning  \n\u2022   Prompt Engineering  \n\u2022   Workflow Automation",
+      "parsed_sections": {
+        "summary": "Motivated third-year B.Tech student specializing in Computer Science and Engineering with Artificial Intelligence and Machine Learning, seeking opportunities to begin a career as an AI Engineer or AI Developer. Building a strong foundation in Python, Artificial Intelligence, SQL, problem solving, and automation while exploring AI agent development using n8n workflows. Eager to learn, apply technical knowledge to real-world problems, and continuously develop practical AI solutions.",
+        "skills": "Programming: Python, C, Java\nAI & ML: Artificial Intelligence Fundamentals, Prompt Design\nDatabases: SQL, MongoDB\nWeb: HTML, CSS\nTools & Platforms: GitHub, Visual Studio Code, n8n\nCurrently Developing: Data Structures & Algorithms, Problem Solving, AI Agent Development, Workflow Automation\nPRACTICAL LEARNING\nAI Agent Development using n8n\n\n\u2022  Currently developing an AI agent using n8n workflow automation.\n\n\u2022  Exploring how AI workflows are designed, connected, executed, and automated.\n\n\u2022  Building hands-on understanding of AI models, workflow automation, and application components.",
+        "experience": "",
+        "education": "Bachelor of Technology \u2014 CSE (Artificial Intelligence & Machine Learning)\nNalla Narasimha Reddy Engineering College | Expected Graduation: 2028\nIntermediate: 89%  |  10th Standard: 93%",
+        "projects": "",
+        "certifications": "\u2022  AI Foundations Certification \u2014 Oracle\n\n\u2022  Power BI Certification \u2014 Skill India\n\n\u2022  Prompt Design in Vertex AI \u2014 Google\n\n\u2022  Generative AI Job Simulation \u2014 Tata\n\n\u2022  MongoDB with AI \u2014 MongoDB\n\n\u2022  AI Fundamentals \u2014 IBM\nCORE STRENGTHS\nProblem Solving  \n\u2022   Communication  \n\u2022   Teamwork  \n\u2022   Quick Learning  \n\u2022   Continuous Learning Mindset\nLANGUAGES\nTelugu (Speak, Read & Write)  \n\u2022   Hindi (Speak, Read & Write)  \n\u2022   English (Speak, Read & Write)\nPROFESSIONAL INTERESTS\nArtificial Intelligence  \n\u2022   AI Agent Development  \n\u2022   AI Automation  \n\u2022   Machine Learning  \n\u2022   Prompt Engineering  \n\u2022   Workflow Automation"
+      },
+      "created_at": "2026-09-27T05:58:21.160509+00:00"
+    }
+  ],
+  "analyses": [
+    {
+      "id": "022e009f-01fc-40a2-b988-f1e86c98a1ff",
+      "user_id": null,
+      "resume_id": "a0b53a71-5733-4ad8-9d0c-dac85cdf7c47",
+      "filename": "Palle_Vamshi_Krishna_Resume.docx",
+      "file_type": "docx",
+      "job_title": "Senior Python & FastAPI Backend Engineer",
+      "target_industry": "FinTech / SaaS",
+      "job_description": "About the Role:\r\nWe are seeking an experienced Senior Backend Engineer to architect, build, and maintain high-performance microservices.\r\n\r\nRequirements:\r\n- 4+ years of professional backend engineering experience with Python and modern async frameworks (FastAPI, Django, or Flask).\r\n- Strong expertise in PostgreSQL schema design, complex SQL optimization, and Redis caching.\r\n- Hands-on experience with Docker containerization, Kubernetes, and AWS cloud services (ECS, S3, RDS).\r\n- Proficiency in designing RESTful APIs, gRPC services, and event-driven architectures with Celery or Kafka.\r\n- Solid understanding of CI/CD pipelines, Git, and automated testing with Pytest (aiming for >85% test coverage).\r\n- Excellent system design skills and passion for clean, maintainable code.",
+      "ats_score": 50,
+      "match_level": "Moderate",
+      "score_breakdown": "skills=20 experience=74 keywords=30 education=90 formatting=92",
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Git / GitHub"
+      ],
+      "missing_skills": [
+        "skill='FastAPI' priority='Recommended' category='Backend Frameworks' tip='Incorporate FastAPI into your experience bullets or technical skills section with a specific project context.'",
+        "skill='Django' priority='Recommended' category='Backend Frameworks' tip='Incorporate Django into your experience bullets or technical skills section with a specific project context.'",
+        "skill='Flask' priority='Recommended' category='Backend Frameworks' tip='Incorporate Flask into your experience bullets or technical skills section with a specific project context.'",
+        "skill='RESTful APIs' priority='Critical' category='Backend Frameworks' tip='Incorporate RESTful APIs into your experience bullets or technical skills section with a specific project context.'",
+        "skill='gRPC' priority='Recommended' category='Backend Frameworks' tip='Incorporate gRPC into your experience bullets or technical skills section with a specific project context.'",
+        "skill='Microservices' priority='Recommended' category='Architecture' tip='Incorporate Microservices into your experience bullets or technical skills section with a specific project context.'",
+        "skill='Celery' priority='Recommended' category='Backend Frameworks' tip='Incorporate Celery into your experience bullets or technical skills section with a specific project context.'",
+        "skill='PostgreSQL' priority='Recommended' category='Databases & Storage' tip='Mention database schema design, querying, or performance tuning involving PostgreSQL.'",
+        "skill='Redis' priority='Recommended' category='Databases & Storage' tip='Mention database schema design, querying, or performance tuning involving Redis.'",
+        "skill='Docker' priority='Critical' category='Cloud & DevOps' tip='Demonstrate practical hands-on CI/CD or deployment experience using Docker.'",
+        "skill='Kubernetes' priority='Recommended' category='Cloud & DevOps' tip='Demonstrate practical hands-on CI/CD or deployment experience using Kubernetes.'",
+        "skill='Amazon Web Services (AWS)' priority='Critical' category='Cloud & DevOps' tip='Demonstrate practical hands-on CI/CD or deployment experience using Amazon Web Services (AWS).'",
+        "skill='CI/CD' priority='Recommended' category='Cloud & DevOps' tip='Demonstrate practical hands-on CI/CD or deployment experience using CI/CD.'",
+        "skill='Unit Testing & QA' priority='Recommended' category='Testing & Quality' tip='Incorporate Unit Testing & QA into your experience bullets or technical skills section with a specific project context.'",
+        "skill='System Design' priority='Recommended' category='Architecture' tip='Incorporate System Design into your experience bullets or technical skills section with a specific project context.'"
+      ],
+      "bonus_skills": [
+        "Java",
+        "HTML5",
+        "CSS3",
+        "MongoDB",
+        "Machine Learning",
+        "Large Language Models (LLMs)",
+        "Communication & Collaboration"
+      ],
+      "experience_analysis": "estimated_years=3.0 detected_seniority='Mid-Level' required_seniority_match=True action_verb_score=60 quantifiable_metrics_count=2 bullet_points_assessed=20 summary_verdict='Demonstrates 3.0 estimated years of practical experience at Mid-Level level with an action-orientation score of 60%.' highlights=['Needs more quantifiable metrics (KPIs, revenue impact, speedups, percentage gains).', \"Elevate bullet points with active verbs like 'Architected', 'Orchestrated', 'Optimized'.\"]",
+      "education_analysis": "detected_degrees=[\"Bachelor's Degree\"] highest_degree=\"Bachelor's Degree\" degree_matched=True certifications_found=[] verdict=\"Detected Bachelor's Degree.\"",
+      "keyword_analysis": "density_score=30 matched_keywords=[KeywordItem(keyword='Backend', resume_count=0, jd_count=2, matched=False, importance='Medium'), KeywordItem(keyword='Design', resume_count=2, jd_count=2, matched=True, importance='Medium'), KeywordItem(keyword='Services', resume_count=0, jd_count=2, matched=False, importance='Medium'), KeywordItem(keyword='Seeking', resume_count=1, jd_count=1, matched=True, importance='Low'), KeywordItem(keyword='Experienced', resume_count=0, jd_count=1, matched=False, importance='Low'), KeywordItem(keyword='Senior', resume_count=0, jd_count=1, matched=False, importance='Low'), KeywordItem(keyword='Engineer', resume_count=2, jd_count=1, matched=True, importance='Low'), KeywordItem(keyword='Architect', resume_count=0, jd_count=1, matched=False, importance='Low'), KeywordItem(keyword='Build', resume_count=0, jd_count=1, matched=False, importance='Low'), KeywordItem(keyword='Maintain', resume_count=0, jd_count=1, matched=False, importance='Low'), KeywordItem(keyword='High-Performance', resume_count=0, jd_count=1, matched=False, importance='Low'), KeywordItem(keyword='Microservices', resume_count=0, jd_count=1, matched=False, importance='Low')] missing_critical_keywords=[] recommendation='Low keyword density. Recruiter search algorithms may screen out this resume. Add high-frequency terms: .'",
+      "ai_recommendations": "overall_verdict='The resume aligns with several core aspects of Senior Python & FastAPI Backend Engineer, but lacks prominent coverage of key requirements such as FastAPI, Django, Flask. Tailoring previous projects to showcase these tools is critical.' fit_assessment='Moderate Match (Targeted Revision Needed)' strengths=['Demonstrated proficiency in critical role requirements: Python, SQL, Git / GitHub.', 'Includes quantifiable metrics and tangible business outcomes in work history.'] weaknesses=['Missing high-priority JD prerequisites: RESTful APIs, Docker, Amazon Web Services (AWS).'] bullet_point_rewrites=[BulletPointRewrite(original='Currently developing an AI agent using n8n workflow automation.', improved='Spearheaded the design and deployment of core services using Python, streamlining workflow execution and boosting operational throughput by 32% across distributed environments.', framework='STAR (Situation, Task, Action, Result)', rationale='Replaces passive phrasing with an authoritative action verb, injects technical tooling context, and introduces quantifiable business impact.'), BulletPointRewrite(original='Building hands-on understanding of AI models, workflow automation, and application components.', improved='Engineered scalable integration pipelines and automated validation suites, reducing production incident turnaround time by 45% and maintaining 99.9% uptime.', framework='Google XYZ (Accomplished [X], as measured by [Y], by doing [Z])', rationale='Re-anchors the accomplishment around a measurable outcome [Y] achieved through specific technical execution [Z].')] formatting_advice=['Keep layout to clean single-column format for optimal ATS parsing algorithms.', \"Ensure standard headings ('Professional Experience', 'Technical Skills', 'Education') are used without graphical icons.\", 'Save and submit as a clean PDF or DOCX format without text boxes or multi-layer graphics.'] action_plan=['Embed missing critical competencies (FastAPI, Django, Flask) in relevant work bullets.', \"Quantify at least 3 bullet points with specific metrics (e.g. '% efficiency gain', '$ cost reduction', 'users supported').\", 'Mirror key phraseology from the target Job Description in your Professional Summary section.']",
+      "interview_questions": [
+        "question='Can you explain an architectural challenge you solved using Python, and how you handled performance bottlenecks or scalability?' type='Technical' rationale='Evaluates depth of experience in Python, which is a core requirement listed on your resume.' answer_strategy='Structure your response around a real-world project. Mention specific data structures, indexing, async patterns, or concurrency handling in Python.'",
+        "question='This role requires experience with FastAPI. How have you worked with similar paradigms or how would you ramp up quickly on FastAPI?' type='Gap-Probe' rationale=\"Directly probes candidate's adaptability regarding the missing FastAPI requirement.\" answer_strategy='Highlight analogous tools or architectural patterns you are fluent in, and explain your concrete methodology for fast technical onboarding.'",
+        "question='How would you design a fault-tolerant, resilient backend service for Senior Python & FastAPI Backend Engineer that can handle sudden traffic spikes and partial database outages?' type='System Design' rationale='Assesses distributed systems understanding, caching strategies (Redis), and failover mechanisms.' answer_strategy='Discuss rate-limiting, message queues (Kafka/RabbitMQ/Celery), circuit breakers, database read replicas, and graceful degradation.'",
+        "question='Tell me about a time when you disagreed with a product manager or team lead on a technical approach. How did you resolve the trade-off?' type='Behavioral' rationale='Assesses cross-functional collaboration, communication, and business-focused decision making.' answer_strategy='Use the STAR method. Focus on data-driven reasoning, prioritizing user experience and project timelines, while maintaining constructive team dynamics.'",
+        "question='Describe a scenario where a critical bug or performance degradation hit production. Walk me through your debugging methodology and post-mortem.' type='Situational' rationale='Tests composure under pressure, root-cause analysis, observability (logs, APM, metrics), and preventative engineering.' answer_strategy='Emphasize immediate mitigation (rollback/feature flag), followed by structured log analysis, root cause isolation, and authoring a blameless post-mortem.'"
+      ],
+      "created_at": "2026-09-27T05:58:21.159511+00:00"
+    }
+  ],
   "audit_logs": [
     {
       "id": "cb955f27-907c-4fae-8792-75e828706254",
@@ -54,6 +129,17 @@
       },
       "ip_address": null,
       "created_at": "2026-09-26T18:24:33.389756+00:00"
+    },
+    {
+      "id": "c93d5785-f62d-4d4d-aee9-bb138b9158ef",
+      "user_id": null,
+      "action": "RESUME_ANALYZED",
+      "details": {
+        "filename": "Palle_Vamshi_Krishna_Resume.docx",
+        "score": 50
+      },
+      "ip_address": null,
+      "created_at": "2026-09-27T05:58:21.164505+00:00"
     }
   ]
 }
